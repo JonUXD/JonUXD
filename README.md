@@ -2,5 +2,4 @@
 
 This is a Data Science repository
 
-Project 1: Adult Dataset
-[I'm an inline-style link](https://www.google.com)
+Project 1: [Adult Dataset](https://github.com/JonUXD/JonUXD/blob/master/Adult/AdultDataset.html)
