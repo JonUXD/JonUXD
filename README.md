@@ -13,4 +13,7 @@ Project 2: [Character Recognition](https://github.com/JonUXD/JonUXD/blob/master/
   Tools: RStudio
   Classification algorithms used: KNN, Support Vector Machines, Decision Trees, Random Forest
 
-
+Project 3: [Text-Mining](https://github.com/JonUXD/JonUXD/blob/master/Data%20Breaches/Data_breaches_text_mining_output.pdf)
+  Language: R
+  Tools: RStudio
+  Techniques: Word-cloud, word-association, bag-of-words, n-grams
